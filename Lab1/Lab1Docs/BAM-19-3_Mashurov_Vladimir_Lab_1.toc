@@ -1,0 +1,3 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Исследование модели вход-выход}{1}{}%
+\contentsline {section}{\numberline {2}Исследование модели вход-состояние-выход}{4}{}%
