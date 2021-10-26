@@ -1,6 +1,9 @@
 \documentclass[a4paper, 12pt]{article}
 
-\usepackage[left=25mm, top=20mm, right=10mm, bottom=25mm, nohead, nofoot]{geometry}
+\usepackage[ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,]{geometry}
 
 \usepackage{cmap}
 \usepackage[T2A]{fontenc}
@@ -32,10 +35,17 @@
 
 \section{Моделирование механической системы масса-пружина}
 
-Дана система: $M\dot{x} + B\dot{x} + kx = f(t)$ 
+Дана система:
 
+\begin{equation}
+M\dot{x} + B\dot{x} + kx = f(t)
+\label{СистемаСБлокомНаПружинеИДемпфером}
+\end{equation}
+
+Где $f(t)$ - входное воздействие, $x(t)$ - выходное воздействие.
+ 
 \textbf{Задание 1.1 } \\
-Применив преобразование Лапласа (с нулевыми начальными условиями) найдите передаточную функцию модели: $ G(s) = \frac{X(s)}{F(s)} $
+Применив преобразование Лапласа (с нулевыми начальными условиями) найдите передаточную функцию модели: $ G(s) = \frac{X(s)}{F(s)} $ 
 
 Найдём соотношение из которого получим G(t):
 
@@ -54,38 +64,49 @@ $$ G(s) = \frac{X(s)}{F(s)} = \mathcal{L} \bigg( \frac{x(t)}{f(t)} \bigg) = \fra
 $$ = \frac{\mathcal{L}(1)}{\mathcal{L}(M\lambda^2 + B\lambda + k)} =  \frac{1}{s} \cdot \frac{s}{M\lambda^2 + B\lambda + k} = \frac{1}{M\lambda^2 + B\lambda + k} $$
 
 \textbf{Задание 1.2 } \\
-Перепишите уравнение (1) в форму вход-состояние-выход.
+Перепишите уравнение \ref{СистемаСБлокомНаПружинеИДемпфером} в форму вход-состояние-выход.
 
-$$M\dot{x}(t) + B\dot{x}(t) + kx(t) = f(t) \; \; \; \frac{d}{dt} = \lambda $$
+$$M\ddot{x}(t) + B\dot{x}(t) + kx(t) = f(t) $$ 
 
 $$ \begin{cases}
-y_1 = kx \\
-y_2 = B\dot{x} + kx - f \\
-y_3 = M \ddot{x} + B \dot{x} + kx - f
+y_1 = x \\
+y_2 = \dot{x} + kx - f
 \end{cases} $$
 
-Продифференцируем по t
+Продифференцируем оба равенства по $t$
 
 $$ \begin{cases}
-\dot{y_1} = k\dot{x} \\
-\dot y_2 = B\ddot{x} + k \dot x - \dot f \\
-\dot y_3 = M \dddot{x} + B \ddot{x} + k \dot x - \dot f
+\dot y_1 = \dot{x} \\
+\dot y_2 = \ddot{x} + k \dot x - \dot f 
 \end{cases} $$
 
 Получим исходную систему
-...
+
+$$ \begin{cases}
+\dot y_1 = y_2 - kx + f \\
+\dot y_2 = f - ky_1 
+\end{cases} $$
+
 Мы пришли к форме вход-состояние-выход.
 
 \textbf{Задание 1.3 } \\
-Составьте структурную схему моделирования, опираясь на уравнение (1) и результат, полученный в Задании 2.
+Составьте структурную схему моделирования, опираясь на уравнение \ref{СистемаСБлокомНаПружинеИДемпфером} и результат, полученный в Задании 2.
 
+$$M\dot{x}(t) + B\dot{x}(t) + kx(t) = f(t) \; \; \; \frac{d}{dt} = \lambda $$
 
+$$ M\lambda^2x(t) + B\lambda x(t) + kx(t) = f(t) \; \; \; |:2 $$
+
+$$ Mx + \frac{Bx}{\lambda} + \frac{kx}{\lambda^2} - \frac{f}{\lambda^2} = 0 $$
+
+$$ \frac{1}{\lambda^2}(kx-f) + \frac{1}{\lambda}(Bx) + Mx = 0 $$
+
+Из полученного выражения можно построить структурную схему \ref{p:Схема1}.
 
 \begin{figure}[h!]
 	\centering
-%	\includegraphics[scale=0.7]{plot1_1}
+	\includegraphics[scale=1]{scheme1}
 	\caption{Структурная схема моделирования механической системы масса-пружина }
-	\label{p:График1_1}
+	\label{p:Схема1}
 \end{figure}
 
 \newpage
