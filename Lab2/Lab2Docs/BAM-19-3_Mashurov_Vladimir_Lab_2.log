@@ -1,12 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.27)  27 OCT 2021 01:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.25)  13 NOV 2021 15:21
 entering extended mode
 **./BAM-19-3_Mashurov_Vladimir_Lab_2.tex
 (BAM-19-3_Mashurov_Vladimir_Lab_2.tex
 LaTeX2e <2021-06-01>
-L3 programming layer <2021-06-01>
-(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2021-06-01> (D:\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+(D:\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
@@ -21,17 +20,16 @@ File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+(D:\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+(D:\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+(D:\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+ (D:\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count190
@@ -46,20 +44,17 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks17
-
-(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Program Files\MiKTeX\tex/latex/cmap\cmap.sty
+ (D:\MiKTeX\tex/latex/geometry\geometry.cfg))
+(D:\MiKTeX\tex/latex/cmap\cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
-)
-(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+) (D:\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 
-(C:\Program Files\MiKTeX\tex/latex/cyrillic\t2aenc.def
+(D:\MiKTeX\tex/latex/cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
-
-(C:\Program Files\MiKTeX\tex/latex/base\t2aenc.dfu
+ (D:\MiKTeX\tex/latex/base\t2aenc.dfu
 File: t2aenc.dfu 2021/01/27 v1.2l UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -260,25 +255,23 @@ File: t2aenc.dfu 2021/01/27 v1.2l UTF-8 support for inputenc
 ))
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
-
-(C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+(D:\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )<<t2a.cmap>>)
-(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+(D:\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
-)
-(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+) (D:\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2021/06/02 3.60 The Babel package
 
-(C:\Program Files\MiKTeX\tex/generic/babel\babel.def
+(D:\MiKTeX\tex/generic/babel\babel.def
 File: babel.def 2021/06/02 3.60 Babel common definitions
 \babel@savecnt=\count193
 \U@D=\dimen147
 \l@unhyphenated=\language79
 
-(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+(D:\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
 \bbl@dirlevel=\count194
@@ -286,11 +279,11 @@ File: babel.def 2021/06/02 3.60 Babel common definitions
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+(D:\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+(D:\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -299,66 +292,64 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 )
-(C:\Program Files\MiKTeX\tex/latex/babel-russian\russianb.ldf
+(D:\MiKTeX\tex/latex/babel-russian\russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+(D:\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+(D:\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+(D:\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+(D:\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+(D:\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
-(C:\Program Files\MiKTeX\tex/latex/float\float.sty
+(D:\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count195
 \float@exts=\toks20
 \float@box=\box50
 \@float@everytoks=\toks21
 \@floatcapt=\box51
-)
-(C:\Program Files\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+) (D:\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen150
 \WF@size=\dimen151
 \c@WF@wrappedlines=\count196
 \WF@box=\box52
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
-)
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (D:\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+(D:\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+(D:\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
 \ex@=\dimen152
 ))
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(D:\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen153
 )
-(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+(D:\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count197
@@ -399,7 +390,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(D:\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -407,10 +398,10 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(D:\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(C:\Program Files\MiKTeX\tex/latex/amscls\amsthm.sty
+(D:\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks28
 \thm@bodyfont=\toks29
@@ -422,10 +413,10 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip54
 \dth@everypar=\toks33
 )
-(C:\Program Files\MiKTeX\tex/latex/mathtools\mathtools.sty
+(D:\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
 
-(C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+(D:\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count275
 \calc@Bcount=\count276
@@ -437,8 +428,7 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count277
 \calc@Cskip=\skip57
-)
-(C:\Program Files\MiKTeX\tex/latex/mathtools\mhsetup.sty
+) (D:\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
@@ -456,8 +446,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \l_MT_below_shortintertext_sep=\dimen169
 \xmathstrut@box=\box55
 \xmathstrut@dim=\dimen170
-)
-(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (D:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box56
@@ -517,7 +506,7 @@ LaTeX Font Info:    ... okay on input line 30.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Info: Redefining \th on input line 30.
-(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count280
 \scratchdimen=\dimen171
@@ -530,29 +519,28 @@ LaTeX Info: Redefining \th on input line 30.
 \MPnumerator=\count284
 \makeMPintoPDFobject=\count285
 \everyMPtoPDFconversion=\toks35
-) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (D:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+(D:\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
 
-
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (D:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 
 
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+(D:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [0
 
-{C:/Users/VladimirMashurov/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-(BAM-19-3_Mashurov_Vladimir_Lab_2.toc)
+{C:/Users/MVVSRV/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (BAM-19-3_Mash
+urov_Vladimir_Lab_2.toc)
 \tf@toc=\write3
 \openout3 = `BAM-19-3_Mashurov_Vladimir_Lab_2.toc'.
 
@@ -562,36 +550,35 @@ Overfull \hbox (7.12665pt too wide) in paragraph at lines 36--36
  []
 
 [1]
-<./images//scheme1.png, id=24, 459.51675pt x 237.88875pt>
+<./images//scheme1.png, id=24, 752.8125pt x 334.24875pt>
 File: ./images//scheme1.png Graphic file (type png)
 <use ./images//scheme1.png>
-Package pdftex.def Info: ./images//scheme1.png  used on input line 107.
-(pdftex.def)             Requested size: 459.51563pt x 237.88815pt.
- [2 <./images//scheme1.png>] [3] (BAM-19-3_Mashurov_Vladimir_Lab_2.aux) ) 
+Package pdftex.def Info: ./images//scheme1.png  used on input line 114.
+(pdftex.def)             Requested size: 451.69098pt x 200.55078pt.
+ [2 <./images//scheme1.png (PNG copy)>] [3]
+(BAM-19-3_Mashurov_Vladimir_Lab_2.aux) ) 
 Here is how much of TeX's memory you used:
  5343 strings out of 478864
- 73259 string characters out of 2858484
- 402856 words of memory out of 3000000
+ 71564 string characters out of 2865142
+ 403856 words of memory out of 3000000
  23141 multiletter control sequences out of 15000+600000
  415534 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,66p,369b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\U
-sers\VladimirMashurov\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lar
-m1200.pk> <C:\Users\VladimirMashurov\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\labx1200.pk> <C:\Users\VladimirMashurov\AppData\Local\MiKTeX\fonts/
-pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\VladimirMashurov\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\VladimirMashur
-ov\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on BAM-19-3_Mashurov_Vladimir_Lab_2.pdf (4 pages, 169248 bytes).
+ 57i,8n,66p,369b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\MVVSRV\AppData\Local\MiKTeX\
+fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\MVVSRV\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\MVVSRV\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\MVVSRV\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\MVVSRV\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk><D:/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on BAM-19-3_Mashurov_Vladimir_Lab_2.pdf (4 pages, 144236 bytes).
 
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
+ 227 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
