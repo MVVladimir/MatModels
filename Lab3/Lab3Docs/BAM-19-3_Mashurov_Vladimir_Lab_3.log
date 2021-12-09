@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.27)  8 DEC 2021 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.27)  10 DEC 2021 01:27
 entering extended mode
 **./BAM-19-3_Mashurov_Vladimir_Lab_3.tex
 (BAM-19-3_Mashurov_Vladimir_Lab_3.tex
@@ -462,12 +462,7 @@ File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box56
 )
-(BAM-19-3_Mashurov_Vladimir_Lab_3.aux
-
-LaTeX Warning: Label `p:Простой_цилиндрический_резер�
-�уар' multiply defined.
-
-)
+(BAM-19-3_Mashurov_Vladimir_Lab_3.aux)
 \openout1 = `BAM-19-3_Mashurov_Vladimir_Lab_3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -572,39 +567,130 @@ File: ./images//example_1.png Graphic file (type png)
 Package pdftex.def Info: ./images//example_1.png  used on input line 47.
 (pdftex.def)             Requested size: 174.89362pt x 150.80359pt.
 [1 <./images//example_1.png>]
-File: ./images//example_1.png Graphic file (type png)
-<use ./images//example_1.png>
-Package pdftex.def Info: ./images//example_1.png  used on input line 85.
-(pdftex.def)             Requested size: 174.89362pt x 150.80359pt.
- [2] (BAM-19-3_Mashurov_Vladimir_Lab_3.aux)
+<./images//scheme1.png, id=25, 645.41125pt x 330.23375pt>
+File: ./images//scheme1.png Graphic file (type png)
+<use ./images//scheme1.png>
+Package pdftex.def Info: ./images//scheme1.png  used on input line 85.
+(pdftex.def)             Requested size: 451.7848pt x 231.16203pt.
+<./images//graph1-1.png, id=26, 586.19pt x 283.0575pt>
+File: ./images//graph1-1.png Graphic file (type png)
+<use ./images//graph1-1.png>
+Package pdftex.def Info: ./images//graph1-1.png  used on input line 92.
+(pdftex.def)             Requested size: 468.95264pt x 226.44629pt.
+<./images//graph1-2.png, id=27, 586.19pt x 279.0425pt>
+File: ./images//graph1-2.png Graphic file (type png)
+<use ./images//graph1-2.png>
+Package pdftex.def Info: ./images//graph1-2.png  used on input line 93.
+(pdftex.def)             Requested size: 468.95264pt x 223.2343pt.
 
-LaTeX Warning: There were multiply-defined labels.
 
- ) 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./images//scheme1.png>]
+<./images//example_2.png, id=35, 175.25475pt x 186.6975pt>
+File: ./images//example_2.png Graphic file (type png)
+<use ./images//example_2.png>
+Package pdftex.def Info: ./images//example_2.png  used on input line 113.
+(pdftex.def)             Requested size: 140.20396pt x 149.35818pt.
+ [3 <./images//graph1-1.png> <./images//graph1-2.png> <./images//example_2.png>
+]
+<./images//scheme2.png, id=42, 789.95125pt x 362.35374pt>
+File: ./images//scheme2.png Graphic file (type png)
+<use ./images//scheme2.png>
+Package pdftex.def Info: ./images//scheme2.png  used on input line 144.
+(pdftex.def)             Requested size: 394.97466pt x 181.17642pt.
+<./images//graph2-2.png, id=43, 586.19pt x 282.05376pt>
+File: ./images//graph2-2.png Graphic file (type png)
+<use ./images//graph2-2.png>
+Package pdftex.def Info: ./images//graph2-2.png  used on input line 152.
+(pdftex.def)             Requested size: 468.95264pt x 225.6433pt.
+<./images//graph2-1.png, id=44, 586.19pt x 280.04625pt>
+File: ./images//graph2-1.png Graphic file (type png)
+<use ./images//graph2-1.png>
+Package pdftex.def Info: ./images//graph2-1.png  used on input line 153.
+(pdftex.def)             Requested size: 468.95264pt x 224.0373pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./images//scheme2.png>]
+<./images//example_3.png, id=49, 193.9245pt x 160.1985pt>
+File: ./images//example_3.png Graphic file (type png)
+<use ./images//example_3.png>
+Package pdftex.def Info: ./images//example_3.png  used on input line 165.
+(pdftex.def)             Requested size: 155.13979pt x 128.15897pt.
+ [5 <./images//graph2-2.png> <./images//graph2-1.png> <./images//example_3.png>
+]
+<./images//scheme3.png, id=56, 994.71625pt x 452.69125pt>
+File: ./images//scheme3.png Graphic file (type png)
+<use ./images//scheme3.png>
+Package pdftex.def Info: ./images//scheme3.png  used on input line 194.
+(pdftex.def)             Requested size: 497.3569pt x 226.34506pt.
+
+Overfull \hbox (13.66006pt too wide) in paragraph at lines 194--195
+ [][] 
+ []
+
+<./images//graph3-1.png, id=57, 586.19pt x 280.04625pt>
+File: ./images//graph3-1.png Graphic file (type png)
+<use ./images//graph3-1.png>
+Package pdftex.def Info: ./images//graph3-1.png  used on input line 202.
+(pdftex.def)             Requested size: 468.95264pt x 224.0373pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./images//scheme3.png>]
+<./images//example_4.png, id=63, 208.98074pt x 127.07475pt>
+File: ./images//example_4.png Graphic file (type png)
+<use ./images//example_4.png>
+Package pdftex.def Info: ./images//example_4.png  used on input line 214.
+(pdftex.def)             Requested size: 167.18481pt x 101.65993pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+[7 <./images//graph3-1.png> <./images//example_4.png>]
+<./images//scheme4.png, id=72, 563.10374pt x 272.01625pt>
+File: ./images//scheme4.png Graphic file (type png)
+<use ./images//scheme4.png>
+Package pdftex.def Info: ./images//scheme4.png  used on input line 245.
+(pdftex.def)             Requested size: 450.48361pt x 217.61328pt.
+<./images//graph4-1.png, id=73, 586.19pt x 281.05pt>
+File: ./images//graph4-1.png Graphic file (type png)
+<use ./images//graph4-1.png>
+Package pdftex.def Info: ./images//graph4-1.png  used on input line 253.
+(pdftex.def)             Requested size: 468.95264pt x 224.84029pt.
+ [8 <./images//scheme4.png> <./images//graph4-1.png>] (BAM-19-3_Mashurov_Vladim
+ir_Lab_3.aux) ) 
 Here is how much of TeX's memory you used:
- 5342 strings out of 478864
- 73264 string characters out of 2858484
- 400922 words of memory out of 3000000
- 23140 multiletter control sequences out of 15000+600000
- 415534 words of font info for 62 fonts, out of 8000000 for 9000
+ 5514 strings out of 478864
+ 77406 string characters out of 2858484
+ 400974 words of memory out of 3000000
+ 23300 multiletter control sequences out of 15000+600000
+ 418584 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,66p,808b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\VladimirMashurov\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\larm1200.pk> <C:\Users\VladimirMashurov\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\VladimirMashurov\AppData\Local\MiKTe
-X\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\VladimirMashurov\AppD
-ata\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Vladim
-irMashurov\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
-les/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on BAM-19-3_Mashurov_Vladimir_Lab_3.pdf (3 pages, 159914 bytes).
+ 57i,8n,66p,808b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\VladimirMashurov\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\VladimirMashurov\AppData\Local\MiKTeX\
+fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\VladimirMashurov\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Vladimir
+Mashurov\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:
+\Users\VladimirMashurov\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+abx1200.pk> <C:\Users\VladimirMashurov\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\labx1728.pk> <C:\Users\VladimirMashurov\AppData\Local\MiKTeX\font
+s/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\VladimirMashurov\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on BAM-19-3_Mashurov_Vladimir_Lab_3.pdf (9 pages, 339627 bytes).
 
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
+ 364 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
